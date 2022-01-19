@@ -6,7 +6,9 @@
 ## Getting Started :rocket:
 
 A simple project to query an external api for study purposes:
-.[API](https://rickandmortyapi.com)
+
+
+[API](https://rickandmortyapi.com)
 
 ### Prerequisites :page_with_curl:
 
