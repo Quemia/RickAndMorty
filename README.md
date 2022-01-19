@@ -9,6 +9,7 @@ A simple project to query an external api for study purposes:
 
 
 [API](https://rickandmortyapi.com)
+![img](https://user-images.githubusercontent.com/55935949/150215058-66a00b53-e112-488f-9812-4683121322ae.png)
 
 ### Prerequisites :page_with_curl:
 
