@@ -7,7 +7,7 @@
 
 A simple project to query an external api for my studies: 
 
-[Api](https://rickandmortyapi.com)
+[Api Link](https://rickandmortyapi.com)
 
 ![img](https://user-images.githubusercontent.com/55935949/150215058-66a00b53-e112-488f-9812-4683121322ae.png)
 
