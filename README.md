@@ -1,4 +1,4 @@
-# Rick and Morty API
+# Rick and Morty
 
 --------------------------
 
@@ -6,7 +6,7 @@
 ## Getting Started :rocket:
 
 A simple project to query an external api for study purposes:
-
+.[API](https://rickandmortyapi.com)
 
 ### Prerequisites :page_with_curl:
 
