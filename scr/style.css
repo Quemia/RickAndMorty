@@ -1,0 +1,42 @@
+.attribution {
+  margin: 1rem;
+  font-size: 0.75rem;
+  text-align: center;
+}
+.attribution a {
+  color:#1f8224;
+}
+
+.links {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+.card {
+  padding: 10px;
+  background-color: #c3fbc58c;
+  border-radius: 5px;
+  margin: 5px;
+  text-align: center;
+}
+.cardImage {
+  border: transparent;
+  border-radius: 5px;
+}
+
+.cardName {
+  color: #000000b8;
+  margin-bottom: -5px;
+  font-family: "monospace";
+  font-size: 20px;
+}
+
+.cardSpecie {
+  color: #408203;
+  font-family: "monospace";
+  font-size: 16px;
+}
