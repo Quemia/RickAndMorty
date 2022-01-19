@@ -5,7 +5,7 @@
 
 ## Getting Started :rocket:
 
-A simple project to query an external api for study purposes: 
+A simple project to query an external api for my studies: 
 
 [Api](https://rickandmortyapi.com)
 
